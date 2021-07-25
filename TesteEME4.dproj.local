@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/25 09:33:38.000.364,=C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/25 09:34:57.000.535,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Sistemas\EME4\EME4.Forms.Pessoa.pas</Transaction>
+    <Transaction>2021/07/25 09:34:57.000.535,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Sistemas\EME4\EME4.Forms.Pessoa.dfm</Transaction>
+    <Transaction>2021/07/25 09:35:17.000.954,C:\Users\Felipe\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Sistemas\EME4\TesteEME4.dproj</Transaction>
+    <Transaction>2021/07/25 09:36:18.000.015,=D:\Sistemas\EME4\Unit1.pas</Transaction>
+    <Transaction>2021/07/25 09:37:06.000.166,=D:\Sistemas\EME4\Unit2.pas</Transaction>
+    <Transaction>2021/07/25 09:38:28.000.021,D:\Sistemas\EME4\Unit2.pas=D:\Sistemas\EME4\EME4.WebServices.ReceitaWS.Models.pas</Transaction>
+    <Transaction>2021/07/25 09:46:58.000.778,=D:\Sistemas\EME4\Unit2.pas</Transaction>
+    <Transaction>2021/07/25 09:48:39.000.191,D:\Sistemas\EME4\Unit2.pas=D:\Sistemas\EME4\EME4.Metodos.pas</Transaction>
+    <Transaction>2021/07/25 10:08:55.000.021,D:\Sistemas\EME4\Unit1.pas=D:\Sistemas\EME4\EME4.WebServices.ReceitaWS.pas</Transaction>
+    <Transaction>2021/07/25 10:38:15.000.951,=D:\Sistemas\EME4\Unit1.pas</Transaction>
+    <Transaction>2021/07/25 12:37:30.000.045,=D:\Sistemas\EME4\Unit1.pas</Transaction>
+    <Transaction>2021/07/25 12:38:01.000.905,D:\Sistemas\EME4\Unit1.dfm=D:\Sistemas\EME4\EME4.DM.dfm</Transaction>
+    <Transaction>2021/07/25 12:38:01.000.905,D:\Sistemas\EME4\Unit1.pas=D:\Sistemas\EME4\EME4.DM.pas</Transaction>
+    <Transaction>2021/07/25 13:57:16.000.086,=D:\Sistemas\EME4\Unit1.pas</Transaction>
+    <Transaction>2021/07/25 13:57:52.000.606,D:\Sistemas\EME4\Unit1.pas=D:\Sistemas\EME4\EME4.Forms.Pessoa.Previa.pas</Transaction>
+    <Transaction>2021/07/25 13:57:52.000.606,D:\Sistemas\EME4\Unit1.dfm=D:\Sistemas\EME4\EME4.Forms.Pessoa.Previa.dfm</Transaction>
+    <Transaction>2021/07/25 15:02:37.000.846,=D:\Sistemas\EME4\Unit1.pas</Transaction>
+    <Transaction>2021/07/25 15:02:50.000.357,D:\Sistemas\EME4\Unit1.pas=D:\Sistemas\EME4\EME4.DB.Pessoa.pas</Transaction>
+    <Transaction>2021/07/25 15:24:51.297,=D:\Sistemas\EME4\Unit1.pas</Transaction>
+    <Transaction>2021/07/25 15:25:01.880,D:\Sistemas\EME4\EME4.DB.Pessoa.pas=D:\Sistemas\EME4\Unit1.pas</Transaction>
+    <Transaction>2021/07/25 17:12:24.416,=D:\Sistemas\EME4\Unit1.pas</Transaction>
+    <Transaction>2021/07/25 17:13:55.186,D:\Sistemas\EME4\EME4.DB.ComboBox.pas=D:\Sistemas\EME4\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
